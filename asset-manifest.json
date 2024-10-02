@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vacation_Planing/static/css/main.0c8388a1.css",
+    "main.js": "/Vacation_Planing/static/js/main.fc8edadc.js",
+    "index.html": "/Vacation_Planing/index.html",
+    "main.0c8388a1.css.map": "/Vacation_Planing/static/css/main.0c8388a1.css.map",
+    "main.fc8edadc.js.map": "/Vacation_Planing/static/js/main.fc8edadc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c8388a1.css",
+    "static/js/main.fc8edadc.js"
+  ]
+}
